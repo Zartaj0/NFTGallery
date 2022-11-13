@@ -1,4 +1,3 @@
-import icoin from './copy.png'
 
 export const NFTCard = ({nft}) => {
     const copy = () => {
